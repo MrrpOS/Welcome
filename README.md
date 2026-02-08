@@ -1,4 +1,4 @@
-# MrrpOS™
+# MrrpOS™ Landing Repository
 MrrpOS™ is a Linux From Scratch operating system, crafted from the ground up to deliver a minimal and resource friendly computing experience.
 
 Links:  
